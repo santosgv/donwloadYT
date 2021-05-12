@@ -1,9 +1,6 @@
 from pytube import YouTube
 from tkinter import *
 
-# yt = YouTube('https://www.youtube.com/watch?v=9T6PXX7X2ro')
-# print(yt.title)
-# print(yt.thumbnail_url)
 
 main = Tk()
 
