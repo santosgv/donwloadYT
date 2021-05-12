@@ -23,7 +23,7 @@ class Aplicacao(Funcionalidades):
         main.mainloop()
 
     def Telas(self):
-        self.main.title('Download video MP3')
+        self.main.title('Download video MP4')
         self.main.configure(background='black')
         self.main.geometry('572x318')
         self.main.resizable(False, False)
